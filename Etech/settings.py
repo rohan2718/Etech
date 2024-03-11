@@ -132,3 +132,5 @@ MESSAGE_TAGS = {
     messages.ERROR: 'danger',
     50: "critical",
 }
+
+STATIC_URL = "static/"
